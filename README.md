@@ -1,10 +1,7 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hk1010110011/Hk1010110011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 哈喽，我是Jz
+- 👀 由于专业是软件专业，对现阶段不满意，又对开发的工作还是不死心，故此继续发起挑战。
+- 🌱 现在的我正在自学，重新捡起Html、Css、JavaScript、Vue全家桶、小程序、
+- 💞️ 希望我的学习没有浪费。能用到实际当中。
+- 📫 联系我可以发送邮件给我---980802764@qq.com
+___________________________________________________________________
+愿我所愿皆实现。希望一切慢慢向着更好的方向靠拢.  
